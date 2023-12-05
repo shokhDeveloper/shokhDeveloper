@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://t.me/shokhDeveloper](https://t.me/shokhDeveloper)
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, Sass, Javascript, React.js, Jquery, Redux, Redux/toolkit, Git Git hub, Antd, React-query**
+- 💬 Ask me about **HTML, CSS, Bootstrap, Sass, Javascript, React.js, Jquery, Redux, Redux/toolkit, Git Git hub, Antd, React-query, TypeScript**
 
 - 📫 How to reach me **shohijahonmusinkulov@gmail.com**
 
