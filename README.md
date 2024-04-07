@@ -1,4 +1,5 @@
 <h1 align="center">Hello I'm Shohijahon Musinkulov </h1>
+<h2> FullStack JavaScript Developer <h2/>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
 - 🌱 I’m currently learning **TypeScript, Node.js, Nest.js**
