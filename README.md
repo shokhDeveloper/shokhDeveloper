@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shohijahon</h1>
+<h1 align="center">Hello I'm Shohijahon Musinkulov </h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
 - 🌱 I’m currently learning **TypeScript, Node.js, Nest.js**
