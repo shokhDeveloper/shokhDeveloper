@@ -2,9 +2,7 @@
 <h2> FullStack JavaScript Developer <h2/>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
-- 🌱 I’m currently learning **TypeScript, Node.js, Nest.js**
-
-- 👯 I’m looking to collaborate on [Spotify](https://github.com/shokhDeveloper/Spotify-clone.git)
+- 🌱 I’m currently learning **TypeScript, Node.js, Nest.js, Express.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shokhDeveloper?](https://github.com/shokhDeveloper?)
 
